@@ -13,7 +13,7 @@
 
  | URL | Проект | Описание |
 | ------------ | ----- | --|
-| [project_1_music_of_big_city](https://github.com/DaniilTsalik/yandex_practical/blob/main/project_1_music_of_big_city/project_1_music_of_big_city.ipynb) | Музыка больших городов | Сравненение музыкальных предпочтений жителей Москва и Санкт-Петербурга по данным Яндекс.Музыки |
-| [project_2_borrower_reliability_research](https://github.com/DaniilTsalik/yandex_practical/blob/main/project_2_borrower_reliability_research/project_2_borrower_reliability_research.ipynb) | Оценка риска | Разработка скоринговой модели - оценки надежности заемщиков |
-| [project_3_research_of_advertisements_for_the_sale_of_apartments](https://github.com/DaniilTsalik/yandex_practical/blob/main/project_3_research_of_advertisements_for_the_sale_of_apartments/research_of_advertisements_for_the_sale_of_apartments.ipynb) | Исследование объявлений о продаже квартир | Установление параметров и факторов влияющих на стоимость объектов недвижимости |
+| [dydko_parsing](https://github.com/DaniilTsalik/my_projects/blob/main/dydko_parsing/dydko_parsing.ipynb) | Парсинг сайта | Парсинг сайта для автоматического заказа товара |
+| [spaceship_titanic](https://github.com/DaniilTsalik/my_projects/blob/main/spaceship_titanic/spaceship_titanic.ipynb) | Космический титаник | Kaggle Spaceship 161 place|
+| [employee_arrival_time](https://github.com/DaniilTsalik/my_projects/blob/main/employee_arrival%20time/employee_arrival_time.ipynb) | Время прихода сотрудников | Фиксация времени прихода сотруников на работу посредством распознования лиц в видеопотоке камеры видеонаблюдения |
 
